@@ -1,0 +1,24 @@
+{
+  "name": "asyncdelay",
+  "version": "1.0.0",
+  "description": "Returns a promise that resolves after a certain number of milliseconds.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanxcharles/asyncdelay.git"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ryan X. Charles <ryanxcharles@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "asink": "1.0.4",
+    "mocha": "2.4.5"
+  }
+}
