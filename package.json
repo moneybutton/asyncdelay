@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ryanxcharles/asyncdelay.git"
+    "url": "https://github.com/yoursnetwork/asyncdelay.git"
   },
   "directories": {
     "test": "test"
